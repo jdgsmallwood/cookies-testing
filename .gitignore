@@ -1,0 +1,11 @@
+__pycache__
+*.venv/
+.DS*
+.ipynb_*
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex*
+*.toc

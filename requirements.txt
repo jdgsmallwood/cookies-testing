@@ -1,0 +1,4 @@
+ipytest
+jupyterlab
+hypothesis
+black[jupyter]
