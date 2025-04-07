@@ -1,4 +1,6 @@
 ipytest
+pytest
 jupyterlab
 hypothesis
 black[jupyter]
+numpy
