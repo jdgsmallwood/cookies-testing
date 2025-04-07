@@ -1,1 +1,3 @@
-Name,Distance,Luminosity\nStar A,10,1000\nStar B,20,2000\n
+Name;Distance;Luminosity
+Star A;10;1000
+Star B;20;2000
