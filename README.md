@@ -2,7 +2,8 @@
 
 ## Run using binder
 
-I've set up a binder image at https://mybinder.org/v2/gh/jdgsmallwood/cookies-testing/638bb8b89eadcb7c2525c4ec1d8a5461ec88eef3?urlpath=lab%2Ftree%2Fcookies_testing.ipynb
+I've set up a binder image at 
+https://mybinder.org/v2/gh/jdgsmallwood/cookies-testing/6230a0720f786be37235a0c3b44caa9bb066b408?urlpath=lab%2Ftree%2Fcookies_testing.ipynb
 
 You should be able to open that link & get a Jupyter environment already set up!
 
