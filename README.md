@@ -1,6 +1,12 @@
 # Pytest: What, Why, and How!
 
-## Installing packages and running the server
+## Run using binder
+
+I've set up a binder image at https://mybinder.org/v2/gh/jdgsmallwood/cookies-testing/2b87766b56389fae05d5acb904b0c61387dde0d0?urlpath=lab%2Ftree%2Fcookies_testing.ipynb
+
+You should be able to open that link & get a Jupyter environment already set up!
+
+## Installing packages and running the server locally
 
 The below commands assume you are using Mac / Linux. If you're using windows these commands will need to be adjusted slightly. 
 
